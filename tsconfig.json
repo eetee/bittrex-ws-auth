@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "incremental": true,
+    /* Enable incremental compilation */
+    "target": "es5",
+    "module": "commonjs",
+    "lib": ["ES2018"],
+    /* Specify library files to be included in the compilation. */
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true /* Disallow inconsistently-cased references to the same file. */
+  }
+}
